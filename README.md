@@ -1,2 +1,2 @@
 # data-analitik
-This repo holds materials of data analitika training
+This repo holds materials for data analitika training
